@@ -3,7 +3,7 @@
 <p></p>
 
 ## Descrição do projeto
-Este projeto realiza uma análise e tratamento de dados para identificar os fatores que contribuem para o cancelamento de clientes de uma empresa. Por meio de exploração de dados e visualização gráfica, ele propõe soluções para problemas detectados e define padrões para a retenção de clientes.
+Este projeto realiza uma análise e tratamento de dados para identificar os fatores que contribuem para o cancelamento de clientes de uma empresa. Por meio de exploração de dados e visualização gráfica, ele propõe soluções para problemas detectados e define padrões para a retenção de clientes. As soluções de mitigação propostas impactaram numa **redução da taxa de cancelamento de 56% para 7%**.
 
 <p></p>
 
